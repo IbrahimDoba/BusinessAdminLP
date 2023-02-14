@@ -9,7 +9,7 @@ const Hero = () => {
           development with Financial data Structure analytics
         </p>
         <h1 className="md:text-7xl sm:text-6xl text-4xl font-bold md:py-6">
-         Business Made Easier
+          Business Made Easier
         </h1>
         <div className="flex justify-center items-center pl-2">
           <p className="md:text-4xl sm:text-3xl text-xl font-bold py-4">
@@ -24,8 +24,13 @@ const Hero = () => {
           />
         </div>
         <div>
-            <p className="md:text-2xl text-xl font-bold text-gray-500">Monitor your data analytics to increase revene for BTB, BTC, & SASS platforms</p>
-            <button className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black ">Get Started</button>
+          <p className="md:text-2xl text-xl font-bold text-gray-500">
+            Monitor your data analytics to increase revene for BTB, BTC, & SASS
+            platforms
+          </p>
+          <button className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black ">
+            Get Started
+          </button>
         </div>
       </div>
     </div>

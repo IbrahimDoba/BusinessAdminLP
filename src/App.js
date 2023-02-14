@@ -8,14 +8,14 @@ import Newsletter from "./components/Newsletter";
 
 function App() {
   return (
-    <div>
+    <>
       <Navbar />
       <Hero />
       <Analytics />
       <Newsletter />
       <Cards />
       <Footer />
-    </div>
+    </>
   );
 }
 
